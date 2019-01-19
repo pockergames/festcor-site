@@ -1,0 +1,11 @@
+REQUISITOS FUNCIONAIS:
+
+-O sistema deve permitir a inscrição das bandas
+-O sistema deve permitir a compra/reserva de ingressos para o evento
+-O sistema deve possuir uma área de gerenciamento para as bandas cadastradas
+
+
+REQUISITOS NÃO FUNCIONAIS:
+
+-O sistema deve permitir acesso aos vídeos e fotos do evento
+-O sistema deve emitir avisos para as bandas participantes e para as pessoas que compraram os ingressos
